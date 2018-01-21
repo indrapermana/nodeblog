@@ -1,4 +1,4 @@
-# node-auth
+# node-blog
 Simple blog application using node.js, express, mongodb
 
 ## Getting Started
